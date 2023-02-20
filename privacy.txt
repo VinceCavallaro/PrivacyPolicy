@@ -1,0 +1,10 @@
+PRIVACY POLICY
+This app stores very minimal information. It keeps track of your local high score for both classic and precision mode,
+as well as your initials that you set upon starting the game for the first time.
+
+There are two online leaderboards, both of which are only accessed with your name and score if you reach the top 10.
+Even so, no affiliation to any personal information that you haven't already given to the game (your initials) will be
+accessed in any way. No locations, no camera roll, no microphone, nothing else at all.
+
+If required, you may contact me to delete information from the leaderboards at any time by emailing your request to
+egglamation@gmail.com. For all other enrquiries, please also email me at egglamation@gmail.com
